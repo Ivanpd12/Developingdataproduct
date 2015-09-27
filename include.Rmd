@@ -1,0 +1,19 @@
+---
+title: "Working with meteorical data"
+author: "Ivan"
+output: html_document
+---
+
+#Working with meteorical data
+
+In this page, you will find information about the meteoretical effects that had occured in the US states in a big period of time.
+
+The information and data has been taked from the coursera course named Repoducible Research Course. So, in this dataset we have all the meteoretical effects separated by states and per kind of effect.
+
+In the application you will be able to find the datatype you are lookig for as well as you will be able to select the range of time you want to see. 
+
+To select the data of some years, you only have to move the bar pointer and select the years you want to see.
+
+Once you select the data, you can see two principal maps. The first map is the population map where it is shown the impact of the meteorological event, for instance, a big storm, winter weather or a simply tornado. The data shown is in terms of the quantity of people impacted.
+
+According to the second map, we can see that this map is related with the economical impact of the meteorical element. Also, the data is expressed in millions of americna dollars (USD, $)
